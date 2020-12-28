@@ -1,0 +1,226 @@
+a {
+  text-decoration: none;
+}
+.head {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  border-bottom: 2px solid #d1d0d0;
+}
+.head span {
+  color: white;
+  line-height: 84px;
+  letter-spacing: 1px;
+}
+.head h1 {
+  color: #2ebaef;
+  width: 295px;
+}
+.topnav {
+  background-color: black;
+  display: flex;
+  height: 44px;
+}
+.topnav .g {
+  display: inline-block;
+  width: 80%;
+}
+.topnav a {
+  color: white;
+  padding-left: 100px;
+  line-height: 44px;
+}
+.topnav .h input {
+  margin-top: 12px;
+}
+.hh {
+  background-color: #4c4847;
+  height: 800px;
+  color: white;
+  display: grid;
+}
+.hh p,
+.hh div,
+.hh h3 {
+  text-align: center;
+}
+.hh p {
+  font-weight: bolder;
+  font-size: 50px;
+  padding-top: 200px;
+}
+hr {
+  background-color: #2ebaef;
+  width: 8%;
+  border: none;
+  height: 1px;
+}
+.o h2 {
+  font-size: 35px;
+}
+.o h2,
+.o h5 {
+  text-align: center;
+}
+.o h2 {
+  font-weight: bolder;
+  margin-top: 100px;
+}
+.o h5 {
+  color: #dbdbdb;
+}
+.o span {
+  color: #d1d0d0;
+}
+.anomaly {
+  background-color: #2ebaef;
+  width: 100px;
+  height: 160px;
+}
+.anomaly .ano {
+  font-size: 113px;
+  color: white;
+}
+.oo {
+  display: flex;
+}
+.oo div,
+.oo h3 {
+  text-align: center;
+}
+.oo div {
+  margin: auto;
+}
+.i {
+  background-color: black;
+  height: 510px;
+  line-height: 150px;
+}
+.i .me {
+  background-color: #d1d0d0;
+  width: 50%;
+}
+.i p {
+  font-size: 25px;
+  font-weight: bolder;
+}
+.i p,
+.i h3 {
+  text-align: center;
+  color: white;
+}
+.girl p {
+  text-align: center;
+  font-size: 25px;
+}
+.cat {
+  display: flex;
+}
+.cat img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-left: 430px;
+}
+.cat .e {
+  margin-left: 165px;
+}
+.circle {
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+.circle .move {
+  position: relative;
+  display: grid;
+  width: 100px;
+  margin: 80px 0;
+}
+.circle .circle1 {
+  background-color: #2ebaef;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px;
+}
+.circle .user {
+  font-size: 60px;
+  color: white;
+  position: absolute;
+  left: 23px;
+  top: -9px;
+}
+.circle span {
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.foot p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+}
+.foot hr {
+  background-color: #2ebaef;
+  width: 8%;
+  border: none;
+  height: 1px;
+}
+.foot .inpt1 {
+  display: inline-block;
+  width: 600px;
+  height: 40px;
+  background-color: #ececec;
+  outline: none;
+  border: none;
+  text-indent: 10px;
+}
+.foot .inpt2 {
+  display: inline-block;
+  width: 600px;
+  height: 40px;
+  background-color: #ececec;
+  outline: none;
+  border: none;
+  text-indent: 10px;
+  background-color: #2ebaef;
+  width: 100px;
+  color: white;
+}
+.foot .input {
+  margin-left: 600px;
+}
+.botto {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.botto p {
+  color: #2ebaef;
+  font-weight: bolder;
+  font-size: 25px;
+  margin-top: 100px;
+}
+.botto li {
+  color: #d1d0d0;
+  font-size: 15px;
+  list-style: none;
+}
+.botto .moto {
+  height: 400px;
+  width: 400px;
+  text-align: center;
+}
+.botto span {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.last {
+  color: white;
+}
